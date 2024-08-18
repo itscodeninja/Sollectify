@@ -15,8 +15,6 @@
 
 Sollectify is a creator-centric NFT marketplace where users on the platform can easily create, trade and sell non-fungible tokens (NFTs) for their unique digital items like artworks, game items and more.
 
-Built on @solana ☀️ and @ProjectSerum
-
 ## Note
 - **Sollectify is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
@@ -31,8 +29,3 @@ yarn dev
 Sollectify is licensed under Apache 2.0.
 
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Sollectify by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
-
-## Contributions
-- Vicyyn [@Vicyyn](https://twitter.com/vicyyn)
-- Niemand [@NieMandRs](https://twitter.com/NieMandRs)
-
